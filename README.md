@@ -1,5 +1,5 @@
 # dp-600-fabric-analytics-engineer
-![logo Fabric](imgs\logo_Fabric.png)
+![logo Fabric](/imgs/logo_Fabric.png)
 ---
 > Repositório de estudos para apoio à certificação DP-600 - Fabric Analytics Engineer Associate
 
