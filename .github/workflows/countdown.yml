@@ -1,0 +1,30 @@
+name: Atualizar Countdown Diário
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Executa todos os dias à meia-noite (UTC)
+  workflow_dispatch: # Permite disparar a execução manualmente pelo site do GitHub
+
+jobs:
+  update-countdown:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Permite que a Action faça commit e push no repositório
+    steps:
+      - name: Clonar Repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Executar Script de Contagem
+        run: python update_countdown.py
+
+      - name: Fazer Commit e Push da Imagem Atualizada
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add countdown.svg
+          git diff --staged --quiet || (git commit -m "Auto-update countdown SVG [skip ci]" && git push)
