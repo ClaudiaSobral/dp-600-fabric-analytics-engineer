@@ -20,7 +20,7 @@ jobs:
           python-version: '3.10'
 
       - name: Executar Script de Contagem
-        run: python update_countdown.py
+        run: python contador.py
 
       - name: Fazer Commit e Push da Imagem Atualizada
         run: |
