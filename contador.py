@@ -1,7 +1,7 @@
 from datetime import datetime
 
 # Defina aqui a sua data-alvo (Ano, Mês, Dia)
-target_date = datetime(2026, 10, 01)  
+target_date = datetime(2026, 10, 1)  
 today = datetime.now()
 
 # Calcula a diferença de dias
