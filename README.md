@@ -27,3 +27,5 @@ E que melhor maneira de se prepara do que se comprometer publicamente, não é m
 - Badges conquistadas.
 
 ## Data da prova: 01/10
+
+![Contador Regressivo](./countdown.svg)
