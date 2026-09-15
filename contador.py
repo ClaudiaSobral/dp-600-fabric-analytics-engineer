@@ -34,5 +34,3 @@ svg_content = f"""<svg xmlns="http://www.w3.org/2000/svg" width="350" height="10
 # Salva o arquivo SVG na raiz do repositório
 with open("countdown.svg", "w", encoding="utf-8") as f:
   f.write(svg_content)
-
-print(f"Countdown atualizado com sucesso: {remaining_days} dias restantes.")
