@@ -20,7 +20,7 @@ A base do meu estudo será o curso da própria Microsoft Learn, [Course DP-600T0
 
 Apesar de a certificação ter um custo envolvido, **o curso é gratuito para quem quiser aprender**! É só fazer uma conta gratuita lá.
 
-E que melhor maneira de se prepara do que se comprometer publicamente, não é mesmo?
+E que melhor maneira de se preparar do que se comprometer publicamente, não é mesmo?
 
 ## ❇️ Habilidades que serão adquiridas ao final do curso
 - Domínio do Microsoft Fabric: Capacidade de navegar e utilizar os principais componentes do Fabric, incluindo Lakehouses, Warehouses, Eventhouses e Dataflows.
