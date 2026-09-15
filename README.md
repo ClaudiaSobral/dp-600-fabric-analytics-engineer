@@ -11,7 +11,7 @@
 
 > Repositório de estudos para apoio à certificação DP-600 - Fabric Analytics Engineer Associate
 
-## O que é esse repositório?
+## ❇️ O que é esse repositório?
 Esse é meu registro público para auxiliar os estudos para a prova de certificação da DP-600, a Fabric Analytics Engineer Associate. Inspirada pela [Regilene Mariano](https://github.com/RegiMaria/), esse é meu compromisso público com a prova e o registro dos meus estudos, visando documentar meu progresso semanal até a prova.
 
 Consegui um voucher de 100% para a certificação DP-600 através do [Data Days 2026](https://community.fabric.microsoft.com/c/campaign-form/page?campaignID=Y2FtcGFpZ24tMTc4MTA0MDI5MDIxMw), através da comunidade Microsoft Fabric, e desde então tenho feito tudo o que está ao meu alcance para conseguir a certificação. 
@@ -22,7 +22,7 @@ Apesar de a certificação ter um custo envolvido, **o curso é gratuito para qu
 
 E que melhor maneira de se prepara do que se comprometer publicamente, não é mesmo?
 
-## Habilidades que serão adquiridas ao final do curso
+## ❇️ Habilidades que serão adquiridas ao final do curso
 - Domínio do Microsoft Fabric: Capacidade de navegar e utilizar os principais componentes do Fabric, incluindo Lakehouses, Warehouses, Eventhouses e Dataflows.
 - Engenharia de Dados Analíticos: Habilidade de preparar, enriquecer e servir dados para análise, implementando transformações complexas e esquemas estrela para otimizar o consumo.
 - Modelagem Semântica Avançada: Proficiência na criação e otimização de modelos semânticos para Power BI, com foco em desempenho (Direct Lake, DAX) e escalabilidade.
@@ -32,19 +32,19 @@ E que melhor maneira de se prepara do que se comprometer publicamente, não é m
 
 
 
-## Objetivos
+## ❇️ Objetivos
 - 📚 **Aprendizado contínuo**: estarei atualizando esse repositório até a data da prova, com base no aprendizado do dia. 
 - 🧠**Fixação do conteúdo**: resumos do conteúdo serão minha principal ferramenta para revisar e fixar o aprendizado em Analytics Engineering.
 - 📈**Demonstração do que foi aprendido**: laboratórios e simulados serão um apoio para o objetivo final, que vai além da certificação: conseguir aplicar profissionalmente todo o conteúdo da DP-600.
 
-## O que você vai encontrar aqui?
+## ❇️ O que você vai encontrar aqui?
 
 - 📅Calendário de estudos
 - ⏰Countdown para a prova
 - 📝Laboratórios realizados
 - 🛡️Badges conquistadas.
 
-## Calendário de estudos
+## ❇️ Calendário de estudos
 
 Status | Trilha | Data de conclusão | Duração | Link da trilha
 --------- |--------- | ------ | ------ | ------
