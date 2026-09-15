@@ -3,7 +3,7 @@
   
 ![logo Fabric](/imgs/logo_Fabric.png)
 
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Meu%20perfil-1591EA?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://learn.microsoft.com/en-us/users/claudiasobraldemelogiglio-5595/)
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Meu%20perfil-1591EA?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://learn.microsoft.com/en-us/users/claudiasobral/)
 
 </div>
 
