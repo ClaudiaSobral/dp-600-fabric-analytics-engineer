@@ -46,13 +46,15 @@ E que melhor maneira de se preparar do que se comprometer publicamente, não é 
 
 ## ❇️ Calendário de estudos
 
-Status | Trilha | Data de conclusão | Duração | Link da trilha
---------- |--------- | ------ | ------ | ------
-🟢| Explore analytics data stores in Microsoft Fabric | 05/09/2026 | 4h34 | [Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/explore-analytics-data-stores/)
-🟢| Design and transform analytics data in Microsoft Fabric  | 05/09/2026 | 5h14 | [Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/design-transform-analytics-data/)
-🟢| Design and manage semantic models in Microsoft Fabric | 14/09/2026 | 6h21 | [Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/design-manage-semantic-models-fabric/)
-🟡| Prepare AI-ready analytics data in Microsoft Fabric  | 17/09/2026 (previsto) | 3h53 | [Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/prepare-ai-ready-analytics-data/)
-🔴| Secure and govern analytics data in Microsoft Fabric | 20/09 (previsto) | 2h54 |[Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/secure-govern-analytics-data/)
+Status | Trilha | Data de conclusão | Duração | Link da trilha | Laboratórios feitos?
+--------- |--------- | ------ | ------ | ------ | ------
+🟢| Explore analytics data stores in Microsoft Fabric | 05/09/2026 | 4h34 | [Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/explore-analytics-data-stores/) | ❌
+🟢| Design and transform analytics data in Microsoft Fabric  | 05/09/2026 | 5h14 | [Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/design-transform-analytics-data/) | ❌
+🟢| Design and manage semantic models in Microsoft Fabric | 14/09/2026 | 6h21 | [Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/design-manage-semantic-models-fabric/) | ❌
+🟡| Prepare AI-ready analytics data in Microsoft Fabric  | 17/09/2026 (previsto) | 3h53 | [Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/prepare-ai-ready-analytics-data/) | ❌
+🔴| Secure and govern analytics data in Microsoft Fabric | 20/09 (previsto) | 2h54 |[Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/secure-govern-analytics-data/) | ❌
+
+Legenda: 🔴 não iniciado · 🟡 em andamento · 🟢 concluído
 
 ## Data da prova: 01/10
 
