@@ -18,7 +18,7 @@ A terceira camada tem quatro controles de acesso primários, do mais amplo para 
 - Papéis de workspace: dão acesso ao lakehouse inteiro. São quatro tipos de permissão - Admin, Member, Contributor e Viewer
 
 Tipo de permissão | Ver | Criar | Modificar | Compartilhar | Administrar itens | Administrar permissões
---------- |--------- | ------ | ------ | ------ | ------ | ------ 
+--------- | :---------: | :------: | :------: | :------: | :------: | :------: 
 Admin | ✅ | ✅ | ✅ | ✅ | ✅ | ✅
 Member | ✅ | ✅ | ✅ | ✅ | ✅ | ❌
 Contributor | ✅ | ✅ | ✅ | ❌ | ❌ | ❌
