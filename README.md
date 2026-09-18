@@ -52,7 +52,7 @@ Status | Trilha | Data de conclusão | Duração | Link da trilha | Laboratório
 🟢| Design and transform analytics data in Microsoft Fabric  | 05/09/2026 | 5h14 | [Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/design-transform-analytics-data/) | ❌
 🟢| Design and manage semantic models in Microsoft Fabric | 14/09/2026 | 6h21 | [Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/design-manage-semantic-models-fabric/) | ❌
 🟢| Prepare AI-ready analytics data in Microsoft Fabric  | 17/09/2026 | 3h53 | [Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/prepare-ai-ready-analytics-data/) | ❌
-🔴| Secure and govern analytics data in Microsoft Fabric | 20/09 (previsto) | 2h54 |[Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/secure-govern-analytics-data/) | ❌
+🟡| Secure and govern analytics data in Microsoft Fabric | 20/09 (previsto) | 2h54 |[Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/secure-govern-analytics-data/) | ❌
 
 Legenda: 🔴 não iniciado · 🟡 em andamento · 🟢 concluído
 

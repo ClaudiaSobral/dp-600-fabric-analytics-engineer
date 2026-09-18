@@ -1,8 +1,5 @@
 # Prepare AI-ready analytics data in Microsoft Fabric
-
-Este repositório documenta meu progresso no Learning Path da Microsoft Learn:
-
-Este learning paths contém 3 módulos que, juntos, preparam para o exame DP-600: Fabric Analytics Engineer:
+Este learning path contém 3 módulos que, juntos, preparam para o exame DP-600: Fabric Analytics Engineer:
 
 1. [Prepare semantic models for AI in Power BI and Microsoft Fabric](https://learn.microsoft.com/en-us/training/modules/fabric-prepare-semantic-layer/)
  
@@ -21,3 +18,28 @@ Validação da IA: a testagem pode ser feita fazendo perguntas típicas de tomad
 2. [Understand Microsoft Fabric IQ fundamentals](https://learn.microsoft.com/en-us/training/modules/understand-fabric-iq-fundamentals/)
 
 **Resumo do módulo**:
+
+O Fabric IQ é um lugar que pode criar ontologias para serem referência através de diversos departamento, unificando termos. Ele não é um modelo semântico, mas é um complemento ao modelo semântico. Ele identifica tipos de identidade, relacionamentos e seu direcionamento, além de dependência entre domínios. O modelo semântico e a ontologia podem adicionar sentido de negócio e servir como base para IA atuar.
+
+Quando utilizar o Fabric IQ?
+
+Ele opera em três camadas:
+
+- Há dados unificados no OneLake. O Fabric IQ consegue referenciar esses dados sem duplicá-los
+- Business Intelligence: os modelos semânticos de PowerBI podem gerar ontologias no IQ
+- Inteligência operacional: dá para fazer *queries* na própria ontologia através de linguagem natural. Ela trabalha entre os domínios e pode fornecer contexto de negócio a partir das regras estabelecidas para a ontologia.
+
+O modelo build-bind-query:
+
+Você monta a ontologia no Fabric IQ, criando as entidades, propriedades e relacionamento. Você atrela ela aos dados reais no OneLake. Depois você faz queries com a onlogia.
+
+O Fabric IQ trabalha com tabelas de lakehouses, eventhouses e modelos semânticos de powerBI, tudo isso sem duplicar dados. O IQ automaticamente usa a ferramenta mais adequada e eficiente para buscar os resultados (pode usar GQL para gráficos e KQL para eventhouses).
+
+Dois caminhos para ontologia:
+
+PowerBI: gera a ontologia a partir do modelo semântico. Menos controle
+OneLake: gera a partir de dados do OneLake. Mais controle.
+
+Seis itens do workload do Fabric IQ: ontology items, agentes de dados, Graphs no Microsoft Fabric, modelos semânticos do PowerBI gerando a estrutura inicial da ontologia, agentes de operação que ativam gatilhos operacionais e planejamento preditivo.
+
+3. [Create an ontology with Fabric IQ](https://learn.microsoft.com/en-us/training/paths/prepare-ai-ready-analytics-data/)
