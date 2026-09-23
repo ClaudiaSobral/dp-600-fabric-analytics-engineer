@@ -11,5 +11,5 @@
   </defs>
   <rect width="350" height="100" rx="12" fill="#1e1e2e" stroke="#fff888" stroke-width="1"/>
   <text x="20" y="38" class="title">⏳ Dias para a Meta Final</text>
-  <text x="20" y="78" class="counter">8 dias restantes</text>
+  <text x="20" y="78" class="counter">7 dias restantes</text>
 </svg>
