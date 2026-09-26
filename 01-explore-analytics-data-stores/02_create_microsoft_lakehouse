@@ -1,0 +1,22 @@
+# Laboratório - Create a Microsoft Fabric Lakehouse
+
+![visual query](/imgs/labs/visual_query.png)
+
+## Objetivos
+- Criar um lakehouse, carregar dados e fazer queries via T-SQL e visual query
+
+## O passo a passo
+
+1. Criei um workspace ```laguinho```
+2. Criei um lakehouse ```lago```
+3. Criei uma subpasta em Files, ````data````
+4. Fiz uma query pelo T-SQL no SQL-endpoint
+5. Criei uma visual query
+
+## O que aprendi
+
+- Aprendi a fazer visual query
+
+## Dificuldades e como resolvi
+
+- Tive dificuldade com o conceito da visual query por ser muito novo pra mim. Em um momento, não consegui seguir as instruções e os valores do resultado da query foram diferentes. Percebi que no campo "operação" eu estava selecionando "count distict lines" e não "count distinct values". Consegui resolver e a query retornou os valores previstos

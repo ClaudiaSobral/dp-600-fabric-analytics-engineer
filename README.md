@@ -46,15 +46,22 @@ E que melhor maneira de se preparar do que se comprometer publicamente, não é 
 
 ## ❇️ Calendário de estudos
 
-Status | Trilha | Data de conclusão | Duração | Link da trilha | Laboratórios feitos ?| Badge
-:---------: |:---------: | :------: | :------: | :------: | :------:| :------: 
-🟢| Explore analytics data stores in Microsoft Fabric | 05/09/2026 | 4h34 | [Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/explore-analytics-data-stores/) | ❌ | [![trophy](/imgs/badges/explore_analytic_data_stores.svg)](https://learn.microsoft.com/en-us/users/claudiasobral/achievements/y4c53wsr)
-🟢| Design and transform analytics data in Microsoft Fabric  | 05/09/2026 | 5h14 | [Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/design-transform-analytics-data/) | ❌ |
-🟢| Design and manage semantic models in Microsoft Fabric | 14/09/2026 | 6h21 | [Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/design-manage-semantic-models-fabric/) | ❌ |
-🟢| Prepare AI-ready analytics data in Microsoft Fabric  | 17/09/2026 | 3h53 | [Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/prepare-ai-ready-analytics-data/) | ❌ |
-🟢| Secure and govern analytics data in Microsoft Fabric | 21/09 (previsto) | 2h54 |[Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/secure-govern-analytics-data/) | ❌ |
+Status | Trilha | Data de conclusão | Duração | Link da trilha | Badge
+:---------: |:---------: | :------: | :------: | :------: | :------: 
+🟢| Explore analytics data stores in Microsoft Fabric | 05/09/2026 | 4h34 | [Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/explore-analytics-data-stores/) | [![trophy](/imgs/badges/explore_analytic_data_stores.svg)](https://learn.microsoft.com/en-us/users/claudiasobral/achievements/y4c53wsr)
+🟢| Design and transform analytics data in Microsoft Fabric  | 05/09/2026 | 5h14 | [Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/design-transform-analytics-data/) |
+🟢| Design and manage semantic models in Microsoft Fabric | 14/09/2026 | 6h21 | [Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/design-manage-semantic-models-fabric/) |
+🟢| Prepare AI-ready analytics data in Microsoft Fabric  | 17/09/2026 | 3h53 | [Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/prepare-ai-ready-analytics-data/) |
+🟢| Secure and govern analytics data in Microsoft Fabric | 21/09 (previsto) | 2h54 |[Acesso ao curso](https://learn.microsoft.com/en-us/training/paths/secure-govern-analytics-data/) |
 
 Legenda: 🔴 não iniciado · 🟡 em andamento · 🟢 concluído
+
+## Laboratórios realizados
+
+- [Discover and connect to data in OneLake](01-explore-analytics-data-stores\discover_connect_data_OneLake.md):
+    - Ensina a carregar dados em um lakehouse, inserir dados numa tabela, usar o SQL endpoint e fazer visualizações rápidas
+- [Create a Microsoft Fabric Lakehouse](01-explore-analytics-data-stores\02_create_microsoft_lakehouse):
+    - Ensina a criar um lakehouse, carregar dados e fazer queries via T-SQL e visual query
 
 ## Data da prova: 01/10
 
