@@ -63,6 +63,11 @@ Legenda: 🔴 não iniciado · 🟡 em andamento · 🟢 concluído
 - [Create a Microsoft Fabric Lakehouse](01-explore-analytics-data-stores\02_create_microsoft_lakehouse):
     - Ensina a criar um lakehouse, carregar dados e fazer queries via T-SQL e visual query
 
+## Recursos extras
+
+- [Repositório de questões do Warren-530](https://warren-530.github.io/dp600-practice/)
+- [Vídeo de prática em questões explicadas](https://youtu.be/gFscPTp7hb4)
+
 ## Data da prova: 01/10
 
 <div align="center">
